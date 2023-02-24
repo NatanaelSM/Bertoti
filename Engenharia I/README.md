@@ -12,7 +12,7 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 O Texto diferencia programação de engenharia de software, sendo a engenharia o planejamento total do software indo muito além de só programar sendo levado em consideração performance, escalabilidade e etc... ou seja, a programação é apenas uma parte de um todo.
 
 2. O que são requisitos?</br>
-Requisitos são tarefas que serão realizadas a fim de obter um produto final ou resolver um problema.</br>
+Requisitos são tarefas que serão realizadas a fim de resolver as necessidades dos clientes.</br>
 2.1. O que são requisitos funcionais?</br>
 Requisitos funcionais são todos os problemas que precisam ser resolvidos para realização do software, a título de exemplo temos a realização de uma compra, uma venda e entrada de estoque.</br>
 2.2. Oque são requisitos não funcionais?</br>
