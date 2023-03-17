@@ -19,3 +19,4 @@ Requisitos funcionais são todos os problemas que precisam ser resolvidos para r
 Requisitos não funcionais é tudo aquilo que envolve a forma que será realizada aquele software, como por exemplo hardware, sistema operacional e linguagens de programação.
 
 Exemplo de UML-Java: </br>
+![image](https://user-images.githubusercontent.com/111640323/225893485-406650c5-f94b-4d2d-a2ee-ad1aea569e2f.png)
