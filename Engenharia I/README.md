@@ -21,6 +21,6 @@ Requisitos não funcionais é tudo aquilo que envolve a forma que será realizad
 Primeiro exemplo de UML-Java: </br>
 ![image](https://user-images.githubusercontent.com/111640323/225893485-406650c5-f94b-4d2d-a2ee-ad1aea569e2f.png)</br> 
 Segundo exemplo de UML-Java </br>
-![image](https://user-images.githubusercontent.com/111640323/227504912-481541aa-aab6-48d1-abe3-2bea751abc26.png)
+![image](https://user-images.githubusercontent.com/111640323/227507171-358c3c42-c53f-4ca4-b7b2-a16640361211.png)</br>
 
 
