@@ -29,5 +29,15 @@ Exemplo UML-Java: </br>
 ![image](https://user-images.githubusercontent.com/111640323/236446392-faf47d90-6631-4cc0-a7d6-ef54e5938ee0.png)</br>
 </br>
 
+## Dia 24/03/2023
+Código do UML acima:</br>
+</br>
+![image](https://user-images.githubusercontent.com/111640323/236559935-6a7f2ec6-164f-44f7-809a-0538746bcda5.png)
+
+![image](https://user-images.githubusercontent.com/111640323/236560027-dcad5172-fe4a-49c4-a351-c8c5eb08ee0f.png)
+
+![image](https://user-images.githubusercontent.com/111640323/236560183-b9222fdb-be58-45bc-99db-323321b2056d.png)
+
+![image](https://user-images.githubusercontent.com/111640323/236560243-25b8cb90-0faf-4cc0-ad6d-dcc4f4b80b67.png)
 
 
