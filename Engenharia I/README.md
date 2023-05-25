@@ -5,7 +5,7 @@ Texto I:</br>
 We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play.   On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
 
 1. O que é engenharia de software?</br>
-O texto aborda a relação entre engenharia de software e a programação em sí. Com a engenharia de software a programação vai muito além de somente digitar os algorítimos e suas lógicas, há uma grande preocupação com relaçao a performace, escalabilidade, trade-offs e experiência do usuário.
+O texto aborda a relação entre engenharia de software e a programação em sí. Com a engenharia de software a programação vai muito além de somente digitar os algorítimos e suas lógicas, há uma grande preocupação com relaçao a performace, escalabilidade, trade-offs e experiência do usuário. Exemplos de trade-offs: Escolhas de tecnologias e banco de dados.
 
 ## Dia 23/02/2023</br>
 Texto II:</br>
